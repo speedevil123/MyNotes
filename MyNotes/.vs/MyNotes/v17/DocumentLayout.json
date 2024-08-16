@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F84970-46B6-4F3C-8F53-419096BB6CB0}|..\\MyNotesTest\\MyNotesTest.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0437\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\mynotestest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33F8E4-7E26-4A7E-BCD8-BD7DAF95F5A7}|MyNotes.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0437\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\mynotes\\entrylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33F8E4-7E26-4A7E-BCD8-BD7DAF95F5A7}|MyNotes.csproj|solutionrelative:entrylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB33F8E4-7E26-4A7E-BCD8-BD7DAF95F5A7}|MyNotes.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0437\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\mynotes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB33F8E4-7E26-4A7E-BCD8-BD7DAF95F5A7}|MyNotes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntryList.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotes\\EntryList.cs",
+              "RelativeDocumentMoniker": "EntryList.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotes\\EntryList.cs",
+              "RelativeToolTip": "EntryList.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:36:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotes\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwFkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:31:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotesTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MyNotesTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0417\u0430\u043F\u0438\u0441\u043D\u0430\u044F \u043A\u043D\u0438\u0436\u043A\u0430\\MyNotesTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MyNotesTest\\UnitTest1.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwHYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:54:05.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
